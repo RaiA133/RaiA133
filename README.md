@@ -10,7 +10,7 @@ I am an student at Nusantara Islamic University. My current spokesperson is Info
 
 | <b>🏆 GitHub Trophies</b> | <b>🖥️ Front-end </b> | <b>🗄️ Back-end </b> |
 | --- | --- | --- |
-| <img src="https://github-profile-trophy.vercel.app/?username=RaiA133&theme=onestar&no-frame=true&row=2&column=4"> | - JavaScript (ES5 & ES6)<br>- React / Next.js<br>- HTML5/CSS3/JS<br>- Bootstrap<br>- Tailwind CSS<br>- DaisyUI<br> | - NodeJs (Express)<br>- PostgreSQL<br>- MySQL<br>- Cloud Database<br>- MVC<br>- RESTful API Development<br>- PHP (Laravel, Codeigniter) |
+| <img src="https://github-profile-trophy.vercel.app/?username=RaiA133&theme=onestar&no-frame=true&row=2&column=4"> | - JavaScript (ES5 & ES6)<br>- React / Next.js<br>- HTML5/CSS3/JS<br>- Bootstrap<br>- Tailwind CSS<br>- DaisyUI<br> | - NodeJs (Express)<br>- PostgreSQL<br>- MySQL<br>- Cloud Database<br>- MVC<br>- RESTful API Development<br>- PHP (Laravel, Codeigniter)<br>- MongoDB<br>- Mongoose |
 
 ---
 
