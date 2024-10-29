@@ -4,7 +4,7 @@
 
 ### 💫 About Me:
 
-I am an student at Nusantara Islamic University. My current spokesperson is Informatics Engineering. I am passionate about technology & computers, apart from that I have other passions for design & graphics. i'm currently working on PHP & Framework of this language such as Codeigniter & Laravel. Now I'am starting a new journey on Javascript Fullstack Web Development Using PERN (PostgreSQL, Express, ReactJS, NodeJS). and now I am doing an internship at a company called PT Telekomunikasi Indonesia Tbk, as a Backend Developer. 
+I am an student at Nusantara Islamic University. My current spokesperson is Informatics Engineering. I am passionate about technology & computers, apart from that I have other passions for design & graphics. i'm currently working on PHP & Framework of this language such as Codeigniter & Laravel. Now I'am starting a new journey on Javascript Fullstack Web Development Using PERN (PostgreSQL, MongoDB, Express, ReactJS, NodeJS). I am an ex Backend Developer intern from PT Telekomunikasi Indonesia Tbk. And now i'am doing another internship in BBSPJILM as Web Developer.
 
 ---
 
